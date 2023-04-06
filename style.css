@@ -6,7 +6,7 @@
 
 header {
     
-    background-color: #424E61;
+    background-color: #55585c;
     color: rgb(190, 190, 190);
     display: flex;
     justify-content: space-around;
@@ -27,4 +27,20 @@ header {
     display: inline-block;
     margin: 0  16px;
     font-size: 18px;
+}
+.cruz-malta{ 
+    width: 12%;
+}
+
+.vasco{
+    background-image: linear-gradient(#55585c,#999ca0 );
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.vasco-textos{
+    width: 35%;
 }
