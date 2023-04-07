@@ -1,26 +1,23 @@
 *{
    margin: 0%;
    padding: 0%;
-
 }
 
-header {
-    
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {   
     background-color: #55585c;
-    color: rgb(190, 190, 190);
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
-
-
 }
 
 .cabecalho-imagem{
     width: 7%;
-
-
-
 }
 
 .cabecalho-lista-item{
@@ -38,9 +35,23 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 59px 0;
 }
 
 .vasco-textos{
     width: 35%;
+}
+
+.vasco-titulo{
+    padding: 24px 0;
+}
+
+.taca-liberta{
+    width: 20%;
+    
+
+}
+
+.titulos-vasco-gama{
+    text-align: center;
 }
